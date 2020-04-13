@@ -9,12 +9,12 @@
       "link": "/about"
     },
     {
-      "label": "Blog",
-      "link": "/blog"
-    },
-    {
       "label": "Contact",
       "link": "/contact"
+    },
+    {
+      "label": "Blog",
+      "link": "/blog"
     }
   ],
   "__gatsby_resolved": {
